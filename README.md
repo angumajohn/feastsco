@@ -1,1 +1,1 @@
-This is the laravel project for the feasts consulatnts International limited # feastsco
+This is  laravel project for the feasts consulatnts International limited # feastsco
